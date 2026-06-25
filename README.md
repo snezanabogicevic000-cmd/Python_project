@@ -6,7 +6,7 @@ Mali projekat u kome sam prikupila podatke o NHL hokej timovima sa interneta i a
 
 1. **Preuzela podatke** sa sajta sa hokej statistikama, koristeći Selenium da otvorim stranice i sačuvam ih.
 2. **Izvukla podatke** iz sačuvanih stranica pomoću BeautifulSoup-a i sačuvala ih u JSON fajl.
-3. **Analizirala podatke** pomoću pandas i matplotlib - očistila ih, izračunala statistiku, napravila grafike, i pronašla neke neobične vrednosti.
+3. **Analizirala podatke** pomoću pandas i matplotlib - očistila ih, izračunala statistiku, napravila grafike, i pronašla neke neobične vrednosti (outliers).
 4. **Predložila kvote** za klađenje na osnovu te analize, podelivši timove u grupe od najboljih do najslabijih.
 
 ## Struktura foldera
